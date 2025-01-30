@@ -11378,6 +11378,11 @@ p {
   border-radius: 0;
 }
 
+.testimonial-card-specialty {
+  color: gray;
+  font-size: 13px;
+}
+
 .testimonial-card-title {
   margin-top: 20px;
   font-size: calc(14px + (18 - 14) * ((100vw - 300px) / (1300 - 300)));
